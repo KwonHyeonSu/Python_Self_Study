@@ -1,7 +1,7 @@
 # Python_Self_Study
 Python_Self_Study
 
-# 링크 : https://www.youtube.com/watch?v=kWiCuklohdY&t=315s
+### 링크 : https://www.youtube.com/watch?v=kWiCuklohdY&t=315s
 
 int(3.5) -> 3 #정부부분만 출력   
 
